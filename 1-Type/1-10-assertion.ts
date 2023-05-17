@@ -16,4 +16,7 @@
     numbers?.push(2)
 
     console.log(numbers)
+
+    const button = document.querySelector('class');
+    button?.nodeValue;
 }
