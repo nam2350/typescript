@@ -34,8 +34,7 @@ anything = 'hello';
 
 // void
 function print(): void {
-	console.log('hello')
-	return;
+	console.log('hello');
 }
 
 // never
